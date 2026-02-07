@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **C, C++, C#, JavaScript,HTML5, CSS3, Bootstrap, PHP**
 
-- 📫 How to reach me **ibrahimkorkut628@gmail.com**
+- 📫 How to reach me: **ibrahimkorkut628@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
