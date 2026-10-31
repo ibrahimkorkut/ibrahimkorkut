@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Cyber Security, Systems & IT Specialist</h3>
 
 - 🌱 I’m currently learning & working with **Systems Programming (Rust/Win32/Go), Cloud Native Architectures, Microservices, Cybersecurity & Automated Testing**
-- ⚡ Focus: **Clean-Room Engineering, High-Performance Async Architectures (Tokio/Axum), Secure Code Signing (Authenticode/PKI), Cloud Infrastructure (K8s/Terraform)**
+- ⚡ Focus: **Clean-Room Engineering, High-Performance Async Architectures (Tokio/Axum), Secure Code Signing (Authenticode/PKI), Infrastructure (K8s/Terraform)**
 - 📫 How to reach me: **ibrahimkorkut628@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -110,10 +110,6 @@
 
 ### ☁️ Cloud, DevOps, Infrastructure & Streaming
 <p align="left">
-  <!-- AWS -->
-  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/amazonwebservices/232F3E" alt="AWS" width="40" height="40"/>
-  </a>&nbsp;
   <!-- Docker -->
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
