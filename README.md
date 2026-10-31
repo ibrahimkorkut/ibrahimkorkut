@@ -101,9 +101,10 @@
   <a href="https://tokio.rs" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Tokio_Async-3B82F6?style=for-the-badge&logo=rust&logoColor=white" alt="Tokio" height="36"/>
   </a>&nbsp;
-  <!-- REST API & WebSocket -->
+  <!-- REST API & WebSocket & Webhooks -->
   <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API" height="36"/>&nbsp;
   <img src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="WebSocket" height="36"/>&nbsp;
+  <img src="https://img.shields.io/badge/Webhooks-FC4C02?style=for-the-badge&logo=webhook&logoColor=white" alt="Webhooks" height="36"/>&nbsp;
   <!-- Microservices -->
   <img src="https://img.shields.io/badge/Microservices-Architecture-FF6B6B?style=for-the-badge&logo=diagram-next&logoColor=white" alt="Microservices" height="36"/>
 </p>
