@@ -194,6 +194,10 @@
   <a href="https://www.kernel.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
   </a>&nbsp;
+  <!-- Nmap Badge -->
+  <a href="https://nmap.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Nmap-Network_Scanner-004C87?style=for-the-badge&logo=target&logoColor=white" alt="Nmap" height="38"/>
+  </a>&nbsp;
   <!-- Wireshark -->
   <a href="https://www.wireshark.org" target="_blank" rel="noreferrer">
     <img src="https://cdn.simpleicons.org/wireshark/1679A7" alt="Wireshark" width="40" height="40"/>
