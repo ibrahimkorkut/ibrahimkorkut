@@ -112,7 +112,7 @@
 <p align="left">
   <!-- AWS -->
   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
+    <img src="https://cdn.simpleicons.org/amazonwebservices/232F3E" alt="AWS" width="40" height="40"/>
   </a>&nbsp;
   <!-- Docker -->
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
