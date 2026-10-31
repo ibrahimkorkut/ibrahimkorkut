@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm İbrahim</h1>
 <h3 align="center">Aspiring Cyber Security, Systems & IT Specialist</h3>
 
-- 🌱 I’m currently learning & working with **Systems Programming (Rust/Win32), Cybersecurity, Reverse Engineering, Modern Desktop & Automated Testing**
+- 🌱 I’m currently learning & working with **Cybersecurity, Systems, Web, Desktop, AI, Automated Testing & Vibe Coding**
 - ⚡ Focus: **Clean-Room Engineering, High-Performance Async Architectures (Tokio/Axum), Secure Code Signing (Authenticode/PKI)**
 - 📫 How to reach me: **ibrahimkorkut628@gmail.com**
 
@@ -166,6 +166,10 @@
   <!-- After Effects -->
   <a href="https://www.adobe.com/products/aftereffects.html" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aftereffects/aftereffects-original.svg" alt="Adobe After Effects" width="40" height="40"/>
+  </a>&nbsp;
+  <!-- HandBrake -->
+  <a href="https://handbrake.fr" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/handbrake/77519E" alt="HandBrake" width="40" height="40"/>
   </a>
 </p>
 
