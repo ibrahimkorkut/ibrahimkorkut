@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm İbrahim</h1>
 <h3 align="center">Aspiring Cyber Security & IT Specialist</h3>
 
-- 🌱 I’m currently learning & working with **Cybersecurity, Systems, Web, Desktop & Automated Testing**
+- 🌱 I’m currently learning & working with **Cybersecurity, Systems, Web & Desktop Development**
 - 📫 How to reach me: **ibrahimkorkut628@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -69,7 +69,7 @@
   </a>
 </p>
 
-### 🛡️ Cybersecurity, Networking & Databases
+### 🛡️ Cybersecurity, Networking & Database
 <p align="left">
   <!-- Linux -->
   <a href="https://www.kernel.org" target="_blank" rel="noreferrer">
@@ -86,22 +86,6 @@
   <!-- MySQL -->
   <a href="https://www.mysql.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  </a>&nbsp;
-  <!-- PostgreSQL -->
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
-  </a>
-</p>
-
-### 🧪 Testing & Automation
-<p align="left">
-  <!-- Playwright -->
-  <a href="https://playwright.dev" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright" height="38"/>
-  </a>&nbsp;
-  <!-- TestSprite -->
-  <a href="https://www.testsprite.com" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/TestSprite-6366F1?style=for-the-badge&logo=testinglibrary&logoColor=white" alt="TestSprite" height="38"/>
   </a>
 </p>
 
