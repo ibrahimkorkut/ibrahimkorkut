@@ -169,7 +169,7 @@
   </a>&nbsp;
   <!-- HandBrake -->
   <a href="https://handbrake.fr" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/handbrake/77519E" alt="HandBrake" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/HandBrake_Icon.png" alt="HandBrake" width="40" height="40"/>
   </a>
 </p>
 
