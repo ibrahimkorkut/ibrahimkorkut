@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm İbrahim</h1>
 <h3 align="center">Aspiring Cyber Security, Systems & IT Specialist</h3>
 
-- 🌱 I’m currently learning & working with **Systems Programming (Rust/Win32), Cybersecurity, Reverse Engineering, Modern Desktop & Automated Testing**
-- ⚡ Focus: **Clean-Room Engineering, High-Performance Async Architectures (Tokio/Axum), Secure Code Signing (Authenticode/PKI)**
+- 🌱 I’m currently learning & working with **Systems Programming (Rust/Win32/Go), Cloud Native Architectures, Microservices, Cybersecurity & Automated Testing**
+- ⚡ Focus: **Clean-Room Engineering, High-Performance Async Architectures (Tokio/Axum), Secure Code Signing (Authenticode/PKI), Cloud Infrastructure (K8s/Terraform)**
 - 📫 How to reach me: **ibrahimkorkut628@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -19,6 +19,10 @@
   <!-- Rust -->
   <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="Rust" width="40" height="40"/>
+  </a>&nbsp;
+  <!-- Go / Golang -->
+  <a href="https://go.dev/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="40" height="40"/>
   </a>&nbsp;
   <!-- TypeScript -->
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
@@ -54,15 +58,27 @@
   </a>
 </p>
 
-### 🚀 Desktop, Web & Backend Frameworks
+### 🚀 Desktop, Mobile, Web & Backend Frameworks
 <p align="left">
   <!-- Tauri -->
   <a href="https://tauri.app" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tauri/tauri-original.svg" alt="Tauri v2" width="40" height="40"/>
   </a>&nbsp;
-  <!-- React -->
-  <a href="https://react.dev" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  <!-- React Native -->
+  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React Native" width="40" height="40"/>
+  </a>&nbsp;
+  <!-- Node.js -->
+  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
+  </a>&nbsp;
+  <!-- NestJS -->
+  <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" alt="NestJS" width="40" height="40"/>
+  </a>&nbsp;
+  <!-- FastAPI -->
+  <a href="https://fastapi.tiangolo.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40"/>
   </a>&nbsp;
   <!-- Vite -->
   <a href="https://vitejs.dev" target="_blank" rel="noreferrer">
@@ -75,32 +91,107 @@
   <!-- Tailwind CSS -->
   <a href="https://tailwindcss.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="40" height="40"/>
-  </a>&nbsp;
-  <!-- FastAPI -->
-  <a href="https://fastapi.tiangolo.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40"/>
-  </a>&nbsp;
+  </a>
+</p>
+<p align="left">
   <!-- Axum & Tokio Badge -->
   <a href="https://github.com/tokio-rs/axum" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Axum-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Axum" height="38"/>
+    <img src="https://img.shields.io/badge/Axum-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Axum" height="36"/>
   </a>&nbsp;
   <a href="https://tokio.rs" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Tokio_Async-3B82F6?style=for-the-badge&logo=rust&logoColor=white" alt="Tokio" height="38"/>
+    <img src="https://img.shields.io/badge/Tokio_Async-3B82F6?style=for-the-badge&logo=rust&logoColor=white" alt="Tokio" height="36"/>
   </a>&nbsp;
-  <!-- REST API Badge -->
-  <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API" height="38"/>
+  <!-- REST API & WebSocket -->
+  <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API" height="36"/>&nbsp;
+  <img src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="WebSocket" height="36"/>&nbsp;
+  <!-- Microservices -->
+  <img src="https://img.shields.io/badge/Microservices-Architecture-FF6B6B?style=for-the-badge&logo=diagram-next&logoColor=white" alt="Microservices" height="36"/>
 </p>
 
-### 🛡️ Cybersecurity, Systems Engineering & Low-Level Internals
+### ☁️ Cloud, DevOps, Infrastructure & Streaming
+<p align="left">
+  <!-- AWS -->
+  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
+  </a>&nbsp;
+  <!-- Docker -->
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
+  </a>&nbsp;
+  <!-- Kubernetes -->
+  <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40"/>
+  </a>&nbsp;
+  <!-- Terraform -->
+  <a href="https://www.terraform.io/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="Terraform" width="40" height="40"/>
+  </a>&nbsp;
+  <!-- Nginx -->
+  <a href="https://www.nginx.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="40" height="40"/>
+  </a>&nbsp;
+  <!-- Apache Kafka -->
+  <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" alt="Apache Kafka" width="40" height="40"/>
+  </a>&nbsp;
+  <!-- Grafana -->
+  <a href="https://grafana.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" alt="Grafana" width="40" height="40"/>
+  </a>&nbsp;
+  <!-- TeamCity -->
+  <a href="https://www.jetbrains.com/teamcity/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/TeamCity-000000?style=for-the-badge&logo=teamcity&logoColor=white" alt="TeamCity CI/CD" height="38"/>
+  </a>
+</p>
+
+### 🗄️ Databases & Storage Engines
+<p align="left">
+  <!-- PostgreSQL -->
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
+  </a>&nbsp;
+  <!-- MongoDB -->
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
+  </a>&nbsp;
+  <!-- Redis -->
+  <a href="https://redis.io/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="40" height="40"/>
+  </a>&nbsp;
+  <!-- SQLite -->
+  <a href="https://www.sqlite.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQLite" width="40" height="40"/>
+  </a>&nbsp;
+  <!-- Supabase -->
+  <a href="https://supabase.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" alt="Supabase" width="40" height="40"/>
+  </a>&nbsp;
+  <!-- MySQL -->
+  <a href="https://www.mysql.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+  </a>&nbsp;
+  <!-- DBeaver -->
+  <a href="https://dbeaver.io/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dbeaver/dbeaver-original.svg" alt="DBeaver" width="40" height="40"/>
+  </a>
+</p>
+
+### 🛡️ Cybersecurity, Identity & Low-Level Internals
 <p align="left">
   <!-- Reverse Engineering Badge -->
-  <img src="https://img.shields.io/badge/Reverse_Engineering-PE%20%7C%20RTTI%20Analysis-red?style=for-the-badge&logo=target" alt="Reverse Engineering" height="38"/>&nbsp;
+  <img src="https://img.shields.io/badge/Reverse_Engineering-PE%20%7C%20RTTI%20Analysis-red?style=for-the-badge&logo=target" alt="Reverse Engineering" height="36"/>&nbsp;
   <!-- Clean-Room Engineering Badge -->
-  <img src="https://img.shields.io/badge/Clean--Room_Engineering-Spec_Driven-darkgreen?style=for-the-badge" alt="Clean-Room Design" height="38"/>&nbsp;
+  <img src="https://img.shields.io/badge/Clean--Room_Engineering-Spec_Driven-darkgreen?style=for-the-badge" alt="Clean-Room Design" height="36"/>&nbsp;
   <!-- Authenticode & PKI Badge -->
-  <img src="https://img.shields.io/badge/Authenticode-Code_Signing_&_X.509_PKI-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Code Signing & PKI" height="38"/>&nbsp;
+  <img src="https://img.shields.io/badge/Authenticode-Code_Signing_&_X.509_PKI-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Code Signing & PKI" height="36"/>&nbsp;
   <!-- Win32 Internals Badge -->
-  <img src="https://img.shields.io/badge/Win32_Internals-Positioned_I/O_&_Hooks-5C2D91?style=for-the-badge&logo=windows" alt="Win32 Internals" height="38"/>
+  <img src="https://img.shields.io/badge/Win32_Internals-Positioned_I/O_&_Hooks-5C2D91?style=for-the-badge&logo=windows" alt="Win32 Internals" height="36"/>
+</p>
+<p align="left">
+  <!-- Auth Badges: JWT, OAuth2, OpenID Connect -->
+  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" alt="JWT" height="36"/>&nbsp;
+  <img src="https://img.shields.io/badge/OAuth_2.0-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="OAuth 2.0" height="36"/>&nbsp;
+  <img src="https://img.shields.io/badge/OpenID_Connect-F78C40?style=for-the-badge&logo=openid&logoColor=white" alt="OpenID Connect" height="36"/>
 </p>
 <p align="left">
   <!-- Linux -->
@@ -110,26 +201,14 @@
   <!-- Wireshark -->
   <a href="https://www.wireshark.org" target="_blank" rel="noreferrer">
     <img src="https://cdn.simpleicons.org/wireshark/1679A7" alt="Wireshark" width="40" height="40"/>
+  </a>&nbsp;
+  <!-- Metasploit Badge -->
+  <a href="https://www.metasploit.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit" height="38"/>
   </a>
 </p>
 
-### 🗄️ Databases & Storage Engines
-<p align="left">
-  <!-- SQLite -->
-  <a href="https://www.sqlite.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQLite WAL" width="40" height="40"/>
-  </a>&nbsp;
-  <!-- PostgreSQL -->
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
-  </a>&nbsp;
-  <!-- MySQL -->
-  <a href="https://www.mysql.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  </a>
-</p>
-
-### 🧪 QA, Test Automation & CI/CD
+### 🧪 QA, Test Automation & API Testing
 <p align="left">
   <!-- Playwright -->
   <a href="https://playwright.dev" target="_blank" rel="noreferrer">
@@ -138,6 +217,10 @@
   <!-- TestSprite -->
   <a href="https://www.testsprite.com" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/TestSprite_AI-6366F1?style=for-the-badge&logo=testinglibrary&logoColor=white" alt="TestSprite AI" height="38"/>
+  </a>&nbsp;
+  <!-- Postman -->
+  <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="Postman" width="40" height="40"/>
   </a>&nbsp;
   <!-- GitHub Actions -->
   <a href="https://github.com/features/actions" target="_blank" rel="noreferrer">
@@ -166,6 +249,10 @@
   <!-- After Effects -->
   <a href="https://www.adobe.com/products/aftereffects.html" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aftereffects/aftereffects-original.svg" alt="Adobe After Effects" width="40" height="40"/>
+  </a>&nbsp;
+  <!-- HandBrake -->
+  <a href="https://handbrake.fr" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/HandBrake_Icon.png" alt="HandBrake" width="40" height="40"/>
   </a>
 </p>
 
