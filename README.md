@@ -97,7 +97,7 @@
 <p align="left">
   <!-- Playwright -->
   <a href="https://playwright.dev" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/playwright/45BA4B" alt="Playwright" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright" height="38"/>
   </a>&nbsp;
   <!-- TestSprite -->
   <a href="https://www.testsprite.com" target="_blank" rel="noreferrer">
