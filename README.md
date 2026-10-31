@@ -260,3 +260,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ibrahimkorkut/ibrahimkorkut/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ibrahimkorkut/ibrahimkorkut/output/github-contribution-grid-snake.svg">
 </picture>
+
+<p align="center">
+  <img src="https://github-stats-terminal-style-five.vercel.app/api/stats?username=ibrahimkorkut&theme=tokyonight&headerStyle=mac" alt="İbrahim Korkut Terminal Stats" width="800" />
+</p>
