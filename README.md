@@ -262,5 +262,5 @@
 </picture>
 
 <p align="left">
-  <img src="https://github-stats-terminal-style-five.vercel.app/api/stats?username=ibrahimkorkut&theme=tokyonight&headerStyle=mac" alt="Terminal Stats" width="100% height="80%"" />
+  <img src="https://github-stats-terminal-style-five.vercel.app/api/stats?username=ibrahimkorkut&theme=tokyonight&headerStyle=mac" alt="Terminal Stats" width="100% height="50%"" />
 </p>
